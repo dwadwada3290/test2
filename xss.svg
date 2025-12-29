@@ -5,4 +5,5 @@
 <circle cx="63.2109" cy="37.5391" r="18.1641" fill="black"/>
 <rect opacity="0.4" x="81.1328" y="80.7198" width="17.5687" height="17.3876" rx="4" transform="rotate(-45 81.1328 80.7198)" fill="#FDBA74"/>
 <script>alert(1)</script>
+  
 </svg>
